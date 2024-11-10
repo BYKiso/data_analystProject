@@ -15,3 +15,5 @@ def print_structured_array(arr):
 
 
 print_structured_array(structured_array)
+
+ # i love sam
